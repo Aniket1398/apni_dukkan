@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862445725388",
+    "firebase_url": "https://flutter-pay-2ddba.firebaseio.com",
+    "project_id": "flutter-pay-2ddba",
+    "storage_bucket": "flutter-pay-2ddba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862445725388:android:e64c1c1772677a2b544469",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862445725388-r2maoakenkh0i7hf9ct27gmda75vj2bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_ecommerce",
+            "certificate_hash": "6acc350c387d5fe96c13993a872fe576081c7739"
+          }
+        },
+        {
+          "client_id": "862445725388-d0cqp8tslhe945mh2bqjv95kbeltonh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSZCTWfL0kawQlU6Itv_SrcWwfsahCxBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862445725388-d0cqp8tslhe945mh2bqjv95kbeltonh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
